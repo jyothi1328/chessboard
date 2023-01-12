@@ -1,0 +1,21 @@
+.square23 {
+    width: 47px;
+    height: 47px;
+    border: 1px solid black;
+}
+.row23 {    
+    display: inline-block;
+}
+
+.add-knight {
+    /* background-color: black; */
+    background-image: url("knight23.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#chessBoard23{
+    /* background-color: aqua; */
+    padding: 10% 25% 10% 25%;
+    text-align: center;
+}
